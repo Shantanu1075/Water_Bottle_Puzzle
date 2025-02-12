@@ -6,13 +6,11 @@ The **Water Bottle Puzzle** is a C++ implementation of the classic water jug pro
 ### Image Results Example
 
 Result Image 1 
-![Screenshot from 2025-02-12 09-12-24](https://github.com/user-attachments/assets/67375b86-912a-4140-9f04-2abbceccd02b)
 
 Result Image 2
-![Screenshot from 2025-02-12 09-13-14](https://github.com/user-attachments/assets/81b7824f-8a47-4744-92a2-721b071762c8)
 
 Result Image 3
-![Screenshot from 2025-02-12 09-13-43](https://github.com/user-attachments/assets/cf5f04ae-a45f-4a2e-a866-2d06c03f6192)
+![Screenshot from 2025-02-12 09-17-55](https://github.com/user-attachments/assets/a9e35fce-7252-46bb-95dd-ebcfefa74d2a)
 
 ## Features
 - **Game Mechanics**: Solve puzzles by transferring water between bottles.
