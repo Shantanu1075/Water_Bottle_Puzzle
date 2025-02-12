@@ -6,8 +6,10 @@ The **Water Bottle Puzzle** is a C++ implementation of the classic water jug pro
 ### Image Results Example
 
 Result Image 1 
+![Screenshot from 2025-02-12 09-20-20](https://github.com/user-attachments/assets/0846b17a-765a-40d1-8915-4db2625e1d90)
 
 Result Image 2
+![Screenshot from 2025-02-12 09-20-42](https://github.com/user-attachments/assets/c2d9dfe1-444a-40b5-8875-5301ee62bc12)
 
 Result Image 3
 ![Screenshot from 2025-02-12 09-19-13](https://github.com/user-attachments/assets/88e82007-e531-4ebe-94b4-64467a6dcd2e)
