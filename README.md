@@ -10,7 +10,7 @@ Result Image 1
 Result Image 2
 
 Result Image 3
-![Screenshot from 2025-02-12 09-17-55](https://github.com/user-attachments/assets/a9e35fce-7252-46bb-95dd-ebcfefa74d2a)
+![Screenshot from 2025-02-12 09-19-13](https://github.com/user-attachments/assets/88e82007-e531-4ebe-94b4-64467a6dcd2e)
 
 ## Features
 - **Game Mechanics**: Solve puzzles by transferring water between bottles.
