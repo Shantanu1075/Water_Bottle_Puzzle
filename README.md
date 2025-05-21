@@ -33,7 +33,7 @@ Result Image 3
    ```
 2. Compile the project using g++:
    ```sh
-   g++ -o puzzle main.cpp Bottle.cpp userdata.cpp loadlevel.cpp
+   g++ -o puzzle main.cpp Bottle.cpp UserData.cpp LoadLevel.cpp
    ```
 3. Run the executable:
    ```sh
